@@ -5,15 +5,15 @@
 /* Color Palette */
 
 .color-1 {
-    background: red;
+    background: rgb(90, 42, 56);
 }
 
 .color-2 {
-    background: green;
+    background: rgb(153, 117, 57)
 }
 
 .color-3 {
-    background: blue;
+    background: rgb(240, 144, 119);
 }
 
 
@@ -21,7 +21,16 @@
 /* Textures or Patterns*/
 
 .pattern-1 {
-    background: url();
+    background: url(http://ih1.redbubble.net/image.118671775.9650/flat,550x550,075,f.u2.jpg);
+}
+
+.pattern-2 {
+    background: url(http://bgfons.com/upload/brick_texture3420.jpg);
+}
+
+.pattern-3 {
+    background: url(https://c1.staticflickr.com/3/2505/4038298414_94b71e4abe_b.jpg);
+}
     
     
 
