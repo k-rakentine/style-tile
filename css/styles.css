@@ -21,7 +21,7 @@
 /* Textures or Patterns*/
 
 .pattern-1 {
-    background: url(http://ih1.redbubble.net/image.118671775.9650/flat,550x550,075,f.u2.jpg);
+    background: url(https://s-media-cache-ak0.pinimg.com/236x/6e/e4/16/6ee4168e1bc750accd1d26c261827779.jpg) ;
 }
 
 .pattern-2 {
@@ -44,6 +44,14 @@
 
 
 /* Typography */
+
+h1, h2, h3 {
+    font-family: 'Nunito', sans-serif;
+}
+
+p {
+    font-family: 'Vollkorn', serif;
+}
 
 
 /* Forms */
