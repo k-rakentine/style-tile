@@ -36,7 +36,38 @@
 
 /* Imagery */
 
-    
+
+/* Navigation*/
+
+
+li {
+  list-style: none;
+  width: 200px;
+    display: inline-block;
+}
+.nav:link, .nav:visited {
+  background: rgb(153, 117, 57);
+  border-left: 8px solid rgb(240, 144, 119);
+  color: rgb(90, 42, 56);
+  display: block;
+  height: 32px;
+  line-height: 32px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  width: 163px;
+  transition: background .5s, margin-left 1s;
+  margin-top: 40px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+
+.nav:hover {
+  background: rgb(240, 144, 119);
+  border-left: 8px solid rgb(153, 117, 57);
+  color: rgb(90, 42, 56);
+  margin-left: 32px;
+}
     
     
 
